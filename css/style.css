@@ -1,0 +1,85 @@
+.font{
+    font-size: 15px;
+}
+.social{
+    color: rgba(0,0,0,.9);
+}
+.social:hover{
+    color: #fff;
+}
+.it{
+    line-height: 2;
+}
+.hov{
+    color: #c5ced8;
+    margin-left: 20px;
+    align-content: right;
+}
+.hov:hover{
+    text-decoration: none;
+    color: #fff;
+}
+.btn1{
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 50px;
+}
+.btn2{
+    margin-left: 70px;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    color: #fff;
+}
+.choose{
+    margin-top: 30px;
+    background-color: #dbdfe2;
+}
+.awsem{
+    text-align: center;
+    font-size: 50px;
+}
+.ser{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.head{
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+.bttn{
+    color: #fff;
+    margin-bottom: 30px;
+}
+.contact{
+    margin-top: 30px;
+    background-color: orange;
+}
+.padd{
+    padding-top: 30px;
+}
+.padd2{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.end{
+    color: #fff;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px; 
+}
+.copy{
+    color: orange;
+    font-family: fangsong;
+    font-size: 20px;
+}
+
+
+@media all and (max-width:992px){
+    .first{
+        display: none;
+    }
+    .corsl{
+        display: none;
+    }
+}
